@@ -1,0 +1,3 @@
+[submodule "simple2_NIDM_examples"]
+	path = simple2_NIDM_examples
+	url = https://github.com/dbkeator/simple2_NIDM_examples.git
